@@ -132,40 +132,95 @@ Every contribution is appreciated.
 * API Endpoints
 * Cloud Deployment
 
-## Emprovemnts
-   1. Ul based enhancements
-    
-   2. Evaluation
-      a. Ragas
-      b. LangSmith
-   3. Indexing
-      a. Document Ingestion
-      b. Text Splitting
-      c. Vector Store:
-   4. Retrieval
-      a. Pre-Retrieval
-         i. Query rewriting using LLM
-         ii. Multi-query generation
-         iii. Domain aware routing
-      b. During Retrieval
-         i. MMR
-         ii. Hybrid Retrieval
-         iii. Reranking
-      c. Post-Retrieval
-         i. Contextual Compression
+## 🚀 Improvements
 
-   5. Augmentation
-      a. Prompt Templating
-      b. Answer grounding
-      c. Context window optimizatio
-   6. Generation
-      a. Answer with Citation
-      b. Guard railing
-   7. System Design
-      a. Multimodal
-      b. Agentic
-      c. Memory based      
+### 1. 🎨 UI-Based Enhancements
+- Improve overall user experience
+- Add interactive chat interface
+- Support document uploads and management
+- Enhance responsiveness and accessibility
+
 ---
+
+### 2. 📊 Evaluation
+
+#### a. RAGAS
+- Evaluate answer quality
+- Measure faithfulness and relevance
+- Assess retrieval performance
+
+#### b. LangSmith
+- Trace and debug chains
+- Monitor application performance
+- Analyze prompts and responses
+
+---
+
+### 3. 📚 Indexing
+
+#### a. Document Ingestion
+- Efficient document loading and preprocessing
+
+#### b. Text Splitting
+- Optimized chunking strategies
+- Better context preservation
+
+#### c. Vector Store
+- Efficient embedding storage and retrieval
+- Support for scalable vector databases
+
+---
+
+### 4. 🔍 Retrieval
+
+#### a. Pre-Retrieval
+- Query rewriting using LLMs
+- Multi-query generation
+- Domain-aware routing
+
+#### b. During Retrieval
+- Maximum Marginal Relevance (MMR)
+- Hybrid Retrieval
+- Reranking
+
+#### c. Post-Retrieval
+- Contextual Compression
+
+---
+
+### 5. 🧩 Augmentation
+
+#### a. Prompt Templating
+- Dynamic and reusable prompts
+
+#### b. Answer Grounding
+- Improve factual accuracy using retrieved context
+
+#### c. Context Window Optimization
+- Efficient utilization of LLM context windows
+
+---
+
+### 6. 🤖 Generation
+
+#### a. Answer with Citation
+- Provide source-backed responses
+
+#### b. Guardrailing
+- Improve reliability and safety of generated outputs
+
+---
+
+### 7. 🏗️ System Design
+
+#### a. Multimodal
+- Support text, images, and other data modalities
+
+#### b. Agentic
+- Enable autonomous reasoning and tool usage
+
+#### c. Memory-Based
+- Support conversational and long-term memory
 
 ## 📜 License
 
