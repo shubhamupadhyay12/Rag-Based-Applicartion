@@ -132,6 +132,39 @@ Every contribution is appreciated.
 * API Endpoints
 * Cloud Deployment
 
+## Emprovemnts
+   1. Ul based enhancements
+    
+   2. Evaluation
+      a. Ragas
+      b. LangSmith
+   3. Indexing
+      a. Document Ingestion
+      b. Text Splitting
+      c. Vector Store:
+   4. Retrieval
+      a. Pre-Retrieval
+         i. Query rewriting using LLM
+         ii. Multi-query generation
+         iii. Domain aware routing
+      b. During Retrieval
+         i. MMR
+         ii. Hybrid Retrieval
+         iii. Reranking
+      c. Post-Retrieval
+         i. Contextual Compression
+
+   5. Augmentation
+      a. Prompt Templating
+      b. Answer grounding
+      c. Context window optimizatio
+   6. Generation
+      a. Answer with Citation
+      b. Guard railing
+   7. System Design
+      a. Multimodal
+      b. Agentic
+      c. Memory based      
 ---
 
 ## 📜 License
